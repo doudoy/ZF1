@@ -1,0 +1,5 @@
+Après avoir téléchargé le zip e décompressé :
+NE PAS OUBLIER :: 
+1 - de placer la libray Zend dans le dossier "include/"
+2 - de modifier le fichier application/configs/application.ini et préciser correctement les infos de connexion à la DB et supprimer les commentaires
+3 - d'exécuter le script SQL.sql dans phpmyadmin
